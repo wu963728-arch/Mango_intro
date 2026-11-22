@@ -17,7 +17,7 @@ type Product = {
 
 const products: Product[] = [
   {
-    name: "愛文芒果・經典箱",
+    name: "愛文芒果促銷",
     en: "Irwin Mango — Classic",
     spec: "5 台斤 ／ 約 8–10 顆",
     price: 1280,
